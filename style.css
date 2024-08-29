@@ -69,12 +69,12 @@ header p {
   margin-top: 30px;
 }
 
-article {
+nav {
   margin: 0;
   padding: 0 30px 30px 30px;
 }
 
-article button {
+nav button {
   width: 100%;
   background-color: hsl(0, 0%, 20%);
   color: hsl(0, 0%, 100%);
@@ -85,10 +85,10 @@ article button {
   border-radius: 5px;
 }
 
-article button:hover {
+nav button:hover {
   background-color: hsl(0, 0%, 15%);
 }
 
-article button:active {
+nav button:active {
   background-color: hsl(0, 0%, 10%);
 }
