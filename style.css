@@ -37,6 +37,7 @@ html {
 .container {
   width: 330px;
   background-color: hsl(0, 0%, 12%);
+  border-radius: 20px;
 }
 
 header,
